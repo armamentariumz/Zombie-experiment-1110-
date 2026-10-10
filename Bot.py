@@ -10,7 +10,7 @@ import time
 
 import requests
 
-WEBHOOK = os.environ["https://discord.com/api/webhooks/1557565253745643581/XSFZT274GLAlEq2JW_UF958S3zikv4O2vD3Ga7zPyg46OAYybd78_QEXhnEA-CseNg08"]
+WEBHOOK = os.environ["https://discord.com/api/webhooks/1558327154692063262/84EzVORaO26WXA-StUCy6DA3cohFUlosiIVNthHU4Q4_nFKCRHgT6_M5eH1WA-X2XSJU"]
 STATE_FILE = "seen.json"
 
 # ---------- Filters: tune these ----------
